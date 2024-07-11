@@ -1,5 +1,5 @@
 {
-  "name": "mynpm",
+  "name": "mynpmpkg123",
   "version": "1.0.0",
   "description": "a test nppm package",
   "main": "index.js",
