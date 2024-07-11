@@ -1,0 +1,22 @@
+{
+  "name": "mynpm",
+  "version": "1.0.0",
+  "description": "a test nppm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinetics/npmv1.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhijeet",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/abhinetics/npmv1/issues"
+  },
+  "homepage": "https://github.com/abhinetics/npmv1#readme"
+}
